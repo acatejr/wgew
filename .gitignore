@@ -1,0 +1,6 @@
+*.bak
+*.log
+*.pyc
+
+.venv/
+.ipynb_checkpoints/
