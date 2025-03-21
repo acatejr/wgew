@@ -10,3 +10,5 @@ wgew.Rproj
 .RData
 analysis_report.html
 analysis_report.pdf
+*scratch*
+wgew.db
