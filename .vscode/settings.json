@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "DuckDB",
+            "name": "wgew",
+            "database": "./wgew.db"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
